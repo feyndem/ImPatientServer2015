@@ -1,0 +1,5 @@
+/build/
+/coursera-submission/
+/lib/
+.gradle
+.settings
